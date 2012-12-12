@@ -26,4 +26,4 @@ The "How"
 The Who
 =======
 
-1. As stated everyone and anyone expecially Zimbabweans can contribute to this.
+1. As stated everyone and anyone especially Zimbabweans can contribute to this.
