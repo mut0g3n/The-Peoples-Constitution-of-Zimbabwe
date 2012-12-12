@@ -22,3 +22,8 @@ The "How"
 1. Github is envisaged as the platform in which the consitution itself can be written through massive open participation. 
 
 2. Other social media (eg. Facebook) could be used in parallel for mutiple purposes: advertisement, debate, polling issues etc.
+
+The Who
+=======
+
+1. As stated everyone and anyone expecially Zimbabweans can contribute to this.
